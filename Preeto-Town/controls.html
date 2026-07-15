@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mallow Controls</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="show.js"></script>
+    <script src="controls.js"></script>
+</head>
+<body onload="mallowFill('option', 'mallow-select', 'owned'); personFill('option', 'person-select', 'Wilcock', 'excluded')">
+    <div class="box">
+        <h1>⚙️ Mallow Controls</h1>
+
+        <label>Lend Mallow:</label>
+        <select id="mallow-select"></select>
+        <select id="person-select"></select>
+        <button onclick="handleLend()">LEND MALLOW 🧳</button>
+
+        <hr>
+
+        <label>Set Limits:</label>
+        <button onclick="setDowntime('homework', 60)">📚 Homework (1h)</button>
+        <button onclick="setDowntime('exercise', 30)" style="background:#4caf50;">🏃‍♂️ Exercise (30m)</button>
+
+        <hr>
+
+        <button onclick="manageMallows()">Manage Mallows ⚙️</button>
+
+        <button onclick="window.location.href='index.html'" style="background:#bbb;">⬅️ Back to Hub</button>
+    </div>
+</body>
+</html>

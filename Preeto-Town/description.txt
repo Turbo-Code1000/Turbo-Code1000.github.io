@@ -1,0 +1,20 @@
+Preeto Town Hub
+===============
+A personal community portal for the fictional town of Preeto.
+
+Login — three types: Mallow, Person, Community.
+  Persons: Henry and Margaret (hardcoded codes); other owners register via Person login.
+Dashboard — scrolling news from news.txt with date-gating formulas.
+Shops — CSV-driven menu, XML-driven worker discounts, cart system.
+Mallow Controls — lend mallows, set downtime limits.
+
+Data files: shops.csv, workers.xml, news.txt, owners.json
+Registry: Henry owns S/Preeto/Kitticorn/Tally/Tie-dye Tally/Chea/Hawk/Townes
+          Margaret owns Perl/Green/Jameel/Benny/Froggy/Holly/Olivette/R
+S = Preeto = mayor. Tally = Tie-dye Tally = Kitticorn.
+
+Mallow family (the Keyring family) — sizes from sizes.txt:
+  Adult  — S (dad), R (mum)
+  Teen   — Townes, Kitticorn
+  Child  — Hooty, Froggy, Green, Olivette
+  Baby   — Chea, Hawk, Benny, Perl, Jameel

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preeto Shops</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="show.js"></script>
+</head>
+<body class="order-page-body" onload="loadShops(); renderCart()">
+    <div class="box order-panel">
+        <h1>🛍️ Preeto Shops</h1>
+        <div id="shop-container" class="shop-list"></div>
+        <hr>
+        <button onclick="window.location.href='index.html'" style="background:#bbb;">⬅️ Back to Hub</button>
+    </div>
+    <div id="menu-display" class="box order-panel"></div>
+    <div id="cart-display" class="box order-panel"></div>
+    <script src="order.js"></script>
+</body>
+</html>

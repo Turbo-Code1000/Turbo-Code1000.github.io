@@ -1,0 +1,6 @@
+§ Internal Note: S-Day celebration
+`v>22/07/${CURRENT_YEAR}|00:00&x>22/07/${CURRENT_YEAR}|23:59£> <span> S-DAY IS HERE! Claim your free Cupcake-Cake at the town hall! <img src="cupcake-cake.png" class="custom-emoji"></span>`
+x>25/04/2026>Jameel's Jams has opened! Free jam to all!
+x>01/05/2026>The best-chefs is now open — try the steak and sushi!
+x>01/05/2026>Worker discounts are now live at all Preeto shops.
+x>01/01/2026>Welcome to ${CURRENT_YEAR} in Preeto Town!

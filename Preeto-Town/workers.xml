@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<shops>
+    <shop>
+        <name>Chea's pizzas</name>
+        <workers>Chea, Green</workers>
+    </shop>
+    <shop>
+        <name>Townes's Juices</name>
+        <workers>Townes, Green</workers>
+    </shop>
+    <shop>
+        <name>Perl's Pawns</name>
+        <workers>Perl, Green</workers>
+    </shop>
+    <shop>
+        <name>Antler Cofee</name>
+        <workers>R, Green, Olivette</workers>
+    </shop>
+    <shop>
+        <name>Toady Jam</name>
+        <workers>Jameel, Green, Froggy</workers>
+    </shop>
+    <shop>
+        <name>The best-chefs</name>
+        <workers>Hawk, Tally, Green</workers>
+    </shop>
+    <shop>
+        <name>Dough Dynasty</name>
+        <workers>Perl, Green, Benny, Holly</workers>
+    </shop>
+</shops>
